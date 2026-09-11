@@ -2,9 +2,9 @@
 
 I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
-I enjoy building practical applications and understanding what happens behind the API — from authentication and databases to caching and real-time communication.
+I enjoy building practical applications and understanding how things work behind the API from authentication and databases to caching and real-time communication.
 
-## Currently Working On
+## What I'm Exploring
 
 Going deeper into backend and real-time development through hands-on practice with **Redis, Socket.IO, and Generative AI**.
 
@@ -12,7 +12,7 @@ Going deeper into backend and real-time development through hands-on practice wi
 
 **Frontend:** React · JavaScript · HTML5 · CSS3 · Vite
 
-**Backend:** Node.js · Express.js · REST APIs · JWT
+**Backend:** Node.js · Express.js
 
 **Database:** MongoDB · Mongoose · Redis
 
@@ -38,4 +38,4 @@ A collection of seven smaller projects built while strengthening my JavaScript, 
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/taufique-chaudhary-2bb635385/) · Email: ctaufiquee786@gmail.com
+[LinkedIn](https://www.linkedin.com/in/taufique-chaudhary-2bb635385/) · Email: [ctaufiquee786@gmail.com](mailto:ctaufiquee786@gmail.com)
