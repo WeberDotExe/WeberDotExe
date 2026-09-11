@@ -38,4 +38,4 @@ A collection of seven smaller projects built while strengthening my JavaScript, 
 
 ## Connect With Me
 
-[LinkedIn](www.linkedin.com/in/taufique-chaudhary-2bb635385) · Email: ctaufiquee786@gmail.com
+[LinkedIn](www.linkedin.com/in/taufique-chaudhary-2bb635385/) · Email: ctaufiquee786@gmail.com
