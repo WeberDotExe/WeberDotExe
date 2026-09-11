@@ -83,6 +83,24 @@ A collection of seven smaller projects built while strengthening my fundamentals
 [View Repository](https://github.com/WeberDotExe/mini-projects)
 
 
+## Engineering Focus
+
+I'm interested in building applications that are structured well and can handle more than just the happy path.
+
+Some areas I'm currently focusing on:
+
+* Designing and structuring REST APIs
+* Authentication and authorization with JWT
+* Database design, querying, indexing, and performance
+* Input validation and error handling
+* Caching and temporary data with Redis
+* Rate limiting and basic backend security
+* Real-time communication with Socket.IO
+* Clean separation between frontend, API, state, and business logic
+* Understanding how applications behave as the number of users grows
+
+
+
 <!--
 **WeberDotExe/WeberDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
