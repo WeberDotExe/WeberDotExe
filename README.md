@@ -68,6 +68,29 @@ The goal is to make the application handle real-time interactions efficiently wh
 * Netlify
 
 
+## Projects
+
+### Recall
+
+A full-stack notes application built with React, Node.js, Express, MongoDB, and JWT authentication.
+
+The project includes authentication with access and refresh tokens, notes CRUD, search, pagination, validation, API documentation, rate limiting, logging, and a React frontend.
+
+**Tech:** React · Node.js · Express · MongoDB · Mongoose · JWT · Zod
+
+[View Repository](https://github.com/WeberDotExe/recall)
+
+---
+
+### Mini Projects
+
+A collection of seven smaller projects built while strengthening my fundamentals across JavaScript, React, DOM manipulation, CSS, browser APIs, and state management.
+
+**Includes:** Bento Grid · Bubble Game · Advanced DOM Features · Guess the Number · Spotify Clone · Password Generator · Context API Todo
+
+[View Repository](https://github.com/WeberDotExe/mini-projects)
+
+
 <!--
 **WeberDotExe/WeberDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
