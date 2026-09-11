@@ -43,6 +43,8 @@ A collection of seven smaller projects built while strengthening my JavaScript, 
 
 [LinkedIn](https://www.linkedin.com/in/taufique-chaudhary-2bb635385/) · Email: ctaufiquee786@gmail.com
 
+
+
 <p align="center">
-  <img src="./icons-github.gif" alt="Developer Technologies" width="850">
+  <img src="./icons-github2.gif" alt="Developer Technologies" width="850">
 </p>
