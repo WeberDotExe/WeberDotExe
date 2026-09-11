@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer focused on building practical web applications with JavaScript, React, Node.js, Express, and MongoDB.
 
-I enjoy understanding how things work behind the scenes — from API design and authentication to database performance, caching, and real-time communication.
+I enjoy understanding how things work behind the scenes from API design and authentication to database performance, caching, and real-time communication.
 
 I'm currently working on projects that help me move beyond basic MERN development and build more scalable, production-oriented applications.
 
