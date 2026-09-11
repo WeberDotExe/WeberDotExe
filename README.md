@@ -8,23 +8,15 @@ I'm currently working on projects that help me move beyond basic MERN developmen
 
 
 
-## What I'm Currently Working On
+## Currently Learning
 
-### Scenario Lab
+I'm currently going deeper into backend and real-time application development.
 
-An AI-powered real time communication practice platform for simulations such as interviews, negotiations, sales, and customer interactions.
+* **Redis** — caching, TTL, temporary data, counters, sessions, and rate limiting
+* **Socket.IO** — real-time events, broadcasting, rooms, and communication between connected clients
+* **Generative AI** — learning how to integrate AI capabilities into applications and work with model APIs
 
-I'm building it with:
-
-* React
-* Node.js
-* Express
-* MongoDB
-* Redis
-* Socket.IO
-* Generative AI
-
-The goal is to make the application handle real-time interactions efficiently while keeping the architecture scalable as the number of users grows.
+I'm learning these technologies through hands-on practice and small experiments before applying them to a larger project.
 
 
 ## Tech Stack
