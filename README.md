@@ -10,9 +10,7 @@ I enjoy building practical applications and understanding how things work behind
 
 Going deeper into backend and real-time development through hands-on practice with **Redis, Socket.IO, and Generative AI**.
 
-<p align="center">
-  <img src="./currlearn.png" alt="Currently Exploring" width="850">
-</p>
+
 
 ## Tech Stack
 
@@ -42,9 +40,7 @@ A collection of seven smaller projects built while strengthening my JavaScript, 
 
 [View Repository](https://github.com/WeberDotExe/mini-projects)
 
-<p align="center">
-  <img src="./systemarch.png" alt="Full-Stack System Architecture" width="850">
-</p>
+
 
 ## Currently Learning
 
