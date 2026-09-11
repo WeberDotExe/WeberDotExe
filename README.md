@@ -1,16 +1,24 @@
 ![GitHub Profile Banner](./github-banner.jfif)
 
-# Hi, I'm Taufique 👋
+# Hi, I'm Taufeek 👋
 
 I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
-I enjoy building practical applications and understanding how things work behind the API from authentication and databases to caching and real-time communication.
+I enjoy building practical applications and understanding how things work behind the API  from authentication and databases to caching and real-time communication.
 
 ## What I'm Exploring
 
 Going deeper into backend and real-time development through hands-on practice with **Redis, Socket.IO, and Generative AI**.
 
+<p align="center">
+  <img src="./currlearn.png" alt="Currently Exploring" width="850">
+</p>
+
 ## Tech Stack
+
+<p align="center">
+  <img src="./techstack.png" alt="Tech Stack" width="850">
+</p>
 
 **Frontend:** React · JavaScript · HTML5 · CSS3 · Vite
 
@@ -33,6 +41,10 @@ A full-stack notes application built with React, Node.js, Express, and MongoDB, 
 A collection of seven smaller projects built while strengthening my JavaScript, React, DOM, CSS, browser API, and state-management fundamentals.
 
 [View Repository](https://github.com/WeberDotExe/mini-projects)
+
+<p align="center">
+  <img src="./systemarch.png" alt="Full-Stack System Architecture" width="850">
+</p>
 
 ## Currently Learning
 
