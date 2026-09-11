@@ -1,4 +1,4 @@
-![GitHub Profile Banner](./github-banner.png)
+![GitHub Profile Banner](./github-banner.jfif)
 
 # Hi, I'm Taufique 👋
 
