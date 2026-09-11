@@ -1,6 +1,6 @@
 ![GitHub Profile Banner](./github-banner.jfif)
 
-# Hi, I'm Taufeek 👋
+# Exploring the Systems Behind the Web 🌐
 
 I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
