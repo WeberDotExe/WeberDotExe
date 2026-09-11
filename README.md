@@ -1,4 +1,4 @@
-# Hi, I'm Taufique 👋
+# Hi, I'm Taufeek 👋
 
 I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
