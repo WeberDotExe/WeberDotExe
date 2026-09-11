@@ -1,4 +1,6 @@
-# Hi, I'm Taufeek 👋
+![GitHub Profile Banner](./github-banner.png)
+
+# Hi, I'm Taufique 👋
 
 I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
