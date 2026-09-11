@@ -12,9 +12,9 @@ I'm currently working on projects that help me move beyond basic MERN developmen
 
 I'm currently going deeper into backend and real-time application development.
 
-* **Redis** — caching, TTL, temporary data, counters, sessions, and rate limiting
-* **Socket.IO** — real-time events, broadcasting, rooms, and communication between connected clients
-* **Generative AI** — learning how to integrate AI capabilities into applications and work with model APIs
+* **Redis** :- caching, TTL, temporary data, counters, sessions, and rate limiting
+* **Socket.IO** :- real-time events, broadcasting, rooms, and communication between connected clients
+* **Generative AI** :- learning how to integrate AI capabilities into applications and work with model APIs
 
 I'm learning these technologies through hands-on practice and small experiments before applying them to a larger project.
 
