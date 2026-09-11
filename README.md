@@ -1,117 +1,41 @@
 # Hi, I'm Taufique 👋
 
-I'm a Full-Stack Developer focused on building practical web applications with JavaScript, React, Node.js, Express, and MongoDB.
+I'm a Full-Stack Developer focused on JavaScript, React, Node.js, and backend development.
 
-I enjoy understanding how things work behind the scenes from API design and authentication to database performance, caching, and real-time communication.
+I enjoy building practical applications and understanding what happens behind the API — from authentication and databases to caching and real-time communication.
 
-I'm currently working on projects that help me move beyond basic MERN development and build more scalable, production-oriented applications.
+## Currently Working On
 
-
-
-## Currently Learning
-
-I'm currently going deeper into backend and real-time application development.
-
-* **Redis** :- caching, TTL, temporary data, counters, sessions, and rate limiting
-* **Socket.IO** :- real-time events, broadcasting, rooms, and communication between connected clients
-* **Generative AI** :- learning how to integrate AI capabilities into applications and work with model APIs
-
-I'm learning these technologies through hands-on practice and small experiments before applying them to a larger project.
-
+Going deeper into backend and real-time development through hands-on practice with **Redis, Socket.IO, and Generative AI**.
 
 ## Tech Stack
 
-**Frontend**
+**Frontend:** React · JavaScript · HTML5 · CSS3 · Vite
 
-* React
-* JavaScript
-* HTML5
-* CSS3
-* Axios
-* Vite
+**Backend:** Node.js · Express.js · REST APIs · JWT
 
-**Backend**
+**Database:** MongoDB · Mongoose · Redis
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* Zod
-* Swagger
+**Tools:** Git · GitHub · Postman · Vercel · Render · Netlify
 
-**Database & Caching**
-
-* MongoDB
-* Mongoose
-* Redis
-
-**Real-Time & AI**
-
-* Socket.IO
-* Generative AI
-
-**Tools & Deployment**
-
-* Git
-* GitHub
-* Postman
-* Vercel
-* Render
-* Netlify
-
-
-## Projects
+## Featured Projects
 
 ### Recall
 
-A full-stack notes application built with React, Node.js, Express, MongoDB, and JWT authentication.
-
-The project includes authentication with access and refresh tokens, notes CRUD, search, pagination, validation, API documentation, rate limiting, logging, and a React frontend.
-
-**Tech:** React · Node.js · Express · MongoDB · Mongoose · JWT · Zod
+A full-stack notes application built with React, Node.js, Express, and MongoDB, with authentication, search, pagination, validation, API documentation, and more.
 
 [View Repository](https://github.com/WeberDotExe/recall)
 
----
-
 ### Mini Projects
 
-A collection of seven smaller projects built while strengthening my fundamentals across JavaScript, React, DOM manipulation, CSS, browser APIs, and state management.
-
-**Includes:** Bento Grid · Bubble Game · Advanced DOM Features · Guess the Number · Spotify Clone · Password Generator · Context API Todo
+A collection of seven smaller projects built while strengthening my JavaScript, React, DOM, CSS, browser API, and state-management fundamentals.
 
 [View Repository](https://github.com/WeberDotExe/mini-projects)
 
+## Currently Learning
 
-## Engineering Focus
+**Redis · Socket.IO · Generative AI**
 
-I'm interested in building applications that are structured well and can handle more than just the happy path.
+## Connect With Me
 
-Some areas I'm currently focusing on:
-
-* Designing and structuring REST APIs
-* Authentication and authorization with JWT
-* Database design, querying, indexing, and performance
-* Input validation and error handling
-* Caching and temporary data with Redis
-* Rate limiting and basic backend security
-* Real-time communication with Socket.IO
-* Clean separation between frontend, API, state, and business logic
-* Understanding how applications behave as the number of users grows
-
-
-
-<!--
-**WeberDotExe/WeberDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](ctaufiquee786@gmail.com)
