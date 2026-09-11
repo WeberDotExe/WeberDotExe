@@ -7,6 +7,7 @@ I enjoy understanding how things work behind the scenes from API design and auth
 I'm currently working on projects that help me move beyond basic MERN development and build more scalable, production-oriented applications.
 
 
+
 ## What I'm Currently Working On
 
 ### Scenario Lab
