@@ -18,13 +18,6 @@ Going deeper into backend and real-time development through hands-on practice wi
   <img src="./techstack.png" alt="Tech Stack" width="850">
 </p>
 
-**Frontend:** React · JavaScript · HTML5 · CSS3 · Vite
-
-**Backend:** Node.js · Express.js
-
-**Database:** MongoDB · Mongoose · Redis
-
-**Tools:** Git · GitHub · Postman · Vercel · Render · Netlify
 
 ## Featured Projects
 
