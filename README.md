@@ -12,7 +12,7 @@ I'm currently working on projects that help me move beyond basic MERN developmen
 
 ### Scenario Lab
 
-An AI-powered real-time communication practice platform for simulations such as interviews, negotiations, sales, and customer interactions.
+An AI-powered real time communication practice platform for simulations such as interviews, negotiations, sales, and customer interactions.
 
 I'm building it with:
 
@@ -25,6 +25,48 @@ I'm building it with:
 * Generative AI
 
 The goal is to make the application handle real-time interactions efficiently while keeping the architecture scalable as the number of users grows.
+
+
+## Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Axios
+* Vite
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Zod
+* Swagger
+
+**Database & Caching**
+
+* MongoDB
+* Mongoose
+* Redis
+
+**Real-Time & AI**
+
+* Socket.IO
+* Generative AI
+
+**Tools & Deployment**
+
+* Git
+* GitHub
+* Postman
+* Vercel
+* Render
+* Netlify
+
 
 <!--
 **WeberDotExe/WeberDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
